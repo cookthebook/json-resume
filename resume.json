@@ -1,0 +1,196 @@
+{
+    "basics": {
+        "name": "Aaron Cook",
+        "label": "Computer Science Student",
+        "picture": "profile_pic.png",
+        "email": "cookx770@umn.edu",
+        "phone": "(651) 925-9882",
+        "website": "http://aaroncook.xyz",
+        "summary": "Computer Science undergraduate student at the University of Minnesota",
+        "location": {
+            "address": "1761 Jefferson Ave",
+            "postalCode": "MN 55105",
+            "city": "Saint Paul",
+            "countryCode": "US",
+            "region": "Minnesota"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "https://www.linkedin.com/in/aaron-cook-798908152/",
+                "url": "https://www.linkedin.com/in/aaron-cook-798908152/"
+            },
+            {
+                "network": "GitHub",
+                "username": "https://github.com/cookthebook",
+                "url": "https://github.com/cookthebook"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Artesyn Embedded Technologies",
+            "position": "Firmware Engineering Intern",
+            "website": "https://www.artesyn.com/",
+            "startDate": "2017-05-15",
+            "endDate": "2018-06-29",
+            "summary": "Wrote embedded C for micro-crontrollers and Python for equipment testing.",
+            "highlights": [
+                "Developed Python interface drivers for power supply testing equipment",
+                "Built and revised automated testing suite in Python",
+                "Wrote embedded C code for Microchip and ST microcontrollers",
+                "Lead firmware developer on programmable load board project",
+                "Conducted power supply testing and test report building"
+            ]
+        },
+        {
+            "company": "UMN Housing and Residential Life",
+            "position": "Mechanic",
+            "startDate": "2017-01-01",
+            "endDate": "2017-05-15",
+            "summary": "Maintained mechanical systems in Sanford and Roy Wilkins Halls"
+        },
+        {
+            "company": "Erik's Bikes and Boards",
+            "position": "Bike Mechanic",
+            "startDate": "2015-05-31",
+            "endDate": "2017-08-31",
+            "summary": "Completed customer repair orders and prepared new bikes for sale"
+        },
+        {
+            "company": "FTC Robotics",
+            "position": "Lead Programmer",
+            "startDate": "2011-09-01",
+            "endDate": "2016-02-25",
+            "summary": "Programmed, drove, and designed robots for the FTC highschool robotics program."
+        },
+        {
+            "company": "Capture the Flag Security Competitions",
+            "position": "Cryptographer",
+            "startDate": "2014-09-01",
+            "summary": "Compete in online CTF tournaments at the high school and now college level."
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Minnesota",
+            "area": "Mathematics",
+            "studyType": "High School & Undergraduate",
+            "startDate": "2010-09-01",
+            "endDate": "2015-05-20",
+            "courses": [
+                "Vector Calculus",
+                "Differential Equations",
+                "Linear Algebra"
+            ]
+        },
+        {
+            "institution": "Nova Classical Academy Upper School",
+            "studyType": "High School",
+            "startDate": "2012-09-01",
+            "endDate": "2016-06-05"
+        },
+        {
+            "institution": "University of Minnesota",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "2016-09-01",
+            "endDate": "2020-05-15",
+            "courses": [
+                "Algorithms and Data Structures",
+                "Sequences, Series, and Foundations",
+                "Advanced Programming Principles",
+                "Introduction to Probability and Statistics",
+                "Machine Architecture and Organization"
+            ]
+        },
+        {
+            "institution": "University of Minnesota",
+            "area": "Art",
+            "studyType": "Minor",
+            "startDate": "2016-09-01",
+            "endDate": "2020-05-15",
+            "courses": [
+                "Drawing",
+                "Digital Drawing",
+                "Art Theory"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "FIRST Tech Challenge",
+            "position": "Mentor",
+            "website": "https://www.firstinspires.org/robotics/ftc",
+            "startDate": "2016-08-15",
+            "summary": "Mentor and coach the Nova Classical Academy FTC robotics team",
+            "highlights": [
+                "Mentoring current students from my high school in build design and programming",
+                "Introduced students to GitHub and general source control",
+                "Taught general object-oriented programming ideas with Java"
+            ]
+        },
+        {
+            "organization": "GOFIRST",
+            "position": "Guest Speaker",
+            "website": "https://www.mngofirst.org/",
+            "startDate": "2014-07-12",
+            "endDate": "2015-07-11",
+            "summary": "Gave presentations about FTC robotics electrical systems to beginner and intermediate teams"
+        },
+        {
+            "organization": "Nova Gay Straight Alliance",
+            "position": "Student Leader",
+            "startDate": "2011-09-01",
+            "endDate": "2016-06-05",
+            "summary": "Organized events and meetings for the Nova GSA"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Operating Systems",
+            "keywords": [
+                "Ubuntu",
+                "Debian",
+                "Mac OSX",
+                "Windows 7",
+                "Windows 10"
+            ]
+        },
+        {
+            "name": "Software",
+            "keywords": [
+                "Android Studio",
+                "MPLAB X IDE",
+                "Visual Studio Code",
+                "PyCharm",
+                "Microsoft Office",
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "Google SketchUp"
+            ]
+        },
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "Embedded C",
+                "C++",
+                "Java",
+                "Python",
+                "OCaml",
+                "x86 Assembly",
+                "JavaScript",
+                "Rust"
+            ]
+        },
+        {
+            "name": "Hardware",
+            "keywords": [
+                "Hand and Power Tools",
+                "Laser Cutting",
+                "3D Printing",
+                "Electrical Soldering"
+            ]
+        }
+    ]
+}
